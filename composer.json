@@ -1,16 +1,17 @@
 {
-  "name": "zhaiyuxin/skeleton-php",
-  "description": "A skeleton repository for my packages",
+  "name": "zhaiyuxin/filament-pennant",
+  "description": "A Filament plugin for managing Laravel Pennant feature flags with a beautiful UI.",
   "keywords": [
-    "php",
-    "skeleton",
-    "package"
+    "laravel",
+    "filament",
+    "pennant",
+    "features"
   ],
-  "type": "project",
+  "type": "library",
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "Yuxin\\SkeletonPhp\\": "src/",
+      "Yuxin\\FilamentPennant\\": "src/",
       "Tests\\": "tests/"
     },
     "files": [
@@ -20,7 +21,7 @@
   "authors": [
     {
       "name": "YuXin Zhai",
-      "email": "zhaiyuxin103@hotmail.com"
+      "email": "zhaiyuxin103@gmail.com"
     }
   ],
   "minimum-stability": "stable",
