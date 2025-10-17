@@ -69,5 +69,8 @@
     ],
     "test:refactor": "rector --dry-run",
     "refactor": "rector"
+  },
+  "require": {
+    "laravel/pennant": "^1.18"
   }
 }
