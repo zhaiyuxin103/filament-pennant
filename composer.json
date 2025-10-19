@@ -71,6 +71,7 @@
     "refactor": "rector"
   },
   "require": {
-    "laravel/pennant": "^1.18"
+    "laravel/pennant": "^1.18",
+    "spatie/laravel-package-tools": "^1.92"
   }
 }
