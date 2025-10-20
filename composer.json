@@ -71,6 +71,7 @@
     "refactor": "rector"
   },
   "require": {
+    "filament/filament": "^4.1",
     "laravel/pennant": "^1.18",
     "spatie/laravel-package-tools": "^1.92"
   }
